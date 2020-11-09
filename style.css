@@ -1,0 +1,12 @@
+div{
+    text-align:center;
+   
+  }
+  button {
+    font-size: 22px;
+    background: dodgerblue;
+    color: white;
+    border-radius:30px;
+    border:none;
+    padding:10px 20px;
+  }
